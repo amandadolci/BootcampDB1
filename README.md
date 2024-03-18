@@ -23,13 +23,13 @@
 - Git flow
 - Merge/pull request
 
-### Segunda Atividade
+### Segunda atividade
 
 - Criar um commit que refatore (trocar o nome das variáveis, melhorar o console.log) o código do arquivo "pares.js"
 - Criar um novo arquivo que implemente a solução para o problema: dado um array de valores [9, 4, 5, 10, 2, 90, 8, 6, 33] exiba quais são os maiores que 20. Crie um commit separado para este arquivo
 - Crie outro commit para atualizar o arquivo de documentação README.md
 
-### Terceira Atividade
+### Terceira atividade
 
 - Criar um Pull Request da development para a main
 - Ir para a branch Main local e atualiza-la
@@ -40,3 +40,22 @@
 - Fazer o commit
 - Fazer o pull request da branch atividade-soma para a main
 - Resultado esperado: o código implementado na branch atividade-soma e na branch development devem estar na branch main
+
+## Terceira aula
+
+- Git log
+- Conflitos
+- Merge e rebase
+
+### Primeira Atividade
+
+- Ir para a branch main
+- Criar uma nova branch chamada "calc"
+- Criar um commit que: edite o arquivo pares.js, crie um novo arquivo "calc.js" e implemente soma, subtração, divisão e multiplicação para 2 números (deixar os números fixos no código mesmo). Imprimir os resultados
+- Criar outro commit que edit o arquivo README.md, adicionando as informações aprendidas sobre conflitos e fitlog
+- Fazer o push
+- Voltar para a branch main "edit-readme"
+- Criar uma nova branch que tenha um commit para editar o arquivo README e editar o arquivo pares.js
+- Fazer o push
+- Fazer o merge da branch "calc" na branch "edit-readme" e aceitar o código da branch "calc"
+- Fazer o pull request da branch calc para a main
