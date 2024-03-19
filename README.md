@@ -45,7 +45,8 @@
 
 - Git log
 - Conflitos
-- Merge e rebase
+  - Merge e rebase
+- Cherry pick
 
 ### Primeira Atividade
 
