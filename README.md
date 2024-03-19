@@ -54,8 +54,8 @@
 - Criar um commit que: edite o arquivo pares.js, crie um novo arquivo "calc.js" e implemente soma, subtração, divisão e multiplicação para 2 números (deixar os números fixos no código mesmo). Imprimir os resultados
 - Criar outro commit que edit o arquivo README.md, adicionando as informações aprendidas sobre conflitos e fitlog
 - Fazer o push
-- Voltar para a branch main "edit-readme"
-- Criar uma nova branch que tenha um commit para editar o arquivo README e editar o arquivo pares.js
+- Voltar para a branch main
+- Criar uma nova branch "edit-readme" que tenha um commit para editar o arquivo README e editar o arquivo pares.js
 - Fazer o push
 - Fazer o merge da branch "calc" na branch "edit-readme" e aceitar o código da branch "calc"
 - Fazer o pull request da branch calc para a main
